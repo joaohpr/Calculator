@@ -77,6 +77,11 @@ body {
                border-radius: 8px;
                background-color: aquamarine;
            }
+
+           input{
+            font-size: 15px;
+            background-color: beige;
+           }
        }
    }
 }
